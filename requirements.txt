@@ -32,6 +32,6 @@ SecretStorage==2.3.1
 setproctitle==1.1.10
 six==1.11.0
 typed-ast==1.1.0
-urllib3==1.19.1
+urllib3==1.26.5
 wrapt==1.10.11
 youtube-dl==2017.2.7
